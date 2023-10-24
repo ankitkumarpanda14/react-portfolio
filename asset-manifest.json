@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.01daa3a8.css",
+    "main.js": "/react-portfolio/static/js/main.101d3717.js",
+    "static/media/image.png": "/react-portfolio/static/media/image.00cdf3615da8d4c54ace.png",
+    "static/media/Ankit_Image.png": "/react-portfolio/static/media/Ankit_Image.adac49623a02fde3621b.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.01daa3a8.css.map": "/react-portfolio/static/css/main.01daa3a8.css.map",
+    "main.101d3717.js.map": "/react-portfolio/static/js/main.101d3717.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01daa3a8.css",
+    "static/js/main.101d3717.js"
+  ]
+}
